@@ -1,0 +1,20 @@
+{
+    
+    "list": [
+             {
+             "name": "Andrew Garfield",
+             "imageUrl": "http://blogs-images.forbes.com/antonyleather/files/2014/09/iphone-6-nexus-5.jpg"
+             },
+             {
+             "name": "Emma Stone",
+             "imageUrl": "http://blogs-images.forbes.com/antonyleather/files/2014/09/iphone-6.jpg"
+             },
+             {
+             "name": "Rhys Ifans",
+             "imageUrl": "http://blogs-images.forbes.com/antonyleather/files/2014/09/iphone-6-camera.jpg"
+             },{
+             "name": "Andrew Garfield",
+             "imageUrl": "http://blogs-images.forbes.com/antonyleather/files/2014/09/iphone-6-nexus-5.jpg"
+             }
+             ]
+}
